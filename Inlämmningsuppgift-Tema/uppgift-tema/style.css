@@ -1,0 +1,13 @@
+/**
+Theme Name: Uppgift Tema
+Author: Zoë Mesaros
+Version: 1.0
+Description: A theme for an assignment
+Title: Labb 1
+*/
+
+/* General styles
+------------------------------------------------------------------ */
+@import url("./css/main.css");
+@import url("./css/bootstrap.css");
+@import url("./css/font-awesome.css");
